@@ -5,3 +5,5 @@ Dieses Werk ist lizenziert unter einer
 Das unveränderte Original steht als kostenfreier Download in .pdf und .epub [hier bereit]( http://news.rpi-virtuell.de/2017/02/21/edchatde-das-buch/).
 
 Unter [https://github.com/rpi-virtuell/dasbuch-edchatde](https://github.com/rpi-virtuell/dasbuch-edchatde) sind die entpackten .epub-Daten zur Weiterentwicklung bereit gestellt und können bearbeitet, aktualisiert, verändert und ausgebaut werden.   
+
+[Anleitung](https://www.youtube.com/watch?v=t0_OvO6BTSo)
