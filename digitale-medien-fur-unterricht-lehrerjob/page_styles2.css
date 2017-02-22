@@ -1,0 +1,64 @@
+@page {
+    margin-bottom: 75pt;
+    margin-top: 75pt
+    }
+@font-face {
+    font-family: "BerkeleyStd-Book";
+    font-weight: normal;
+    font-style: normal;
+    src: url(styles/XXXXXXXXXXXXXXXX)
+    }
+@font-face {
+    font-family: "BerkeleyStd-Bold";
+    font-weight: bold;
+    font-style: normal;
+    src: url(styles/XXXXXXXXXXXXXXXX)
+    }
+@font-face {
+    font-family: "BerkeleyStd-BookItalic";
+    font-weight: normal;
+    font-style: italic;
+    src: url(styles/XXXXXXXXXXXXXXXX)
+    }
+@font-face {
+    font-family: "BerkeleyStd-BoldItalic";
+    font-weight: bold;
+    font-style: italic;
+    src: url(styles/XXXXXXXXXXXXXXXX)
+    }
+@font-face {
+    font-family: "DejaVu Sans";
+    font-weight: normal;
+    font-style: normal;
+    src: url(styles/XXXXXXXXXXXXXXXX)
+    }
+@font-face {
+    font-family: "TheMix- Plain";
+    font-weight: normal;
+    font-style: normal;
+    src: url(styles/XXXXXXXXXXXXXXXX)
+    }
+@font-face {
+    font-family: "TheMixExtraBold Plain";
+    font-weight: bold;
+    font-style: normal;
+    src: url(styles/XXXXXXXXXXXXXXXX)
+    }
+@font-face {
+    font-family: "TheMixBold-Caps";
+    font-weight: bold;
+    font-style: normal;
+    src: url(styles/XXXXXXXXXXXXXXXX)
+    }
+@font-face {
+    font-family: "TheMix 3 Light Italic";
+    font-weight: normal;
+    font-style: italic;
+    src: url(styles/XXXXXXXXXXXXXXXX)
+    }
+@font-face {
+    font-family: "TheMix-Italic";
+    font-weight: normal;
+    font-style: italic;
+    src: url(styles/XXXXXXXXXXXXXXXX)
+    }

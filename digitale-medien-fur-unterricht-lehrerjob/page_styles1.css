@@ -1,0 +1,94 @@
+@page {
+    margin-bottom: 75pt;
+    margin-top: 75pt
+    }
+@font-face {
+    font-family: "DejaVu Sans";
+    font-weight: normal;
+    font-style: normal;
+    src: url(styles/XXXXXXXXXXXXXXXX)
+    }
+@font-face {
+    font-family: "DejaVu Serif";
+    font-weight: normal;
+    font-style: normal;
+    src: url(styles/XXXXXXXXXXXXXXXX)
+    }
+@font-face {
+    font-family: "FoundryFormSans-Bold";
+    font-weight: bold;
+    font-style: normal;
+    src: url(styles/XXXXXXXXXXXXXXXX)
+    }
+@font-face {
+    font-family: "FoundryFormSans-BoldItalic";
+    font-weight: bold;
+    font-style: italic;
+    src: url(styles/XXXXXXXXXXXXXXXX)
+    }
+@font-face {
+    font-family: "FoundryFormSans-Book";
+    font-weight: normal;
+    font-style: normal;
+    src: url(styles/XXXXXXXXXXXXXXXX)
+    }
+@font-face {
+    font-family: "FoundryFormSans-Demi";
+    font-weight: bold;
+    font-style: normal;
+    src: url(styles/XXXXXXXXXXXXXXXX)
+    }
+@font-face {
+    font-family: "FoundryFormSans-DemiItalic";
+    font-weight: bold;
+    font-style: italic;
+    src: url(styles/XXXXXXXXXXXXXXXX)
+    }
+@font-face {
+    font-family: "FoundryFormSans-ExtraBold";
+    font-weight: bold;
+    font-style: normal;
+    src: url(styles/XXXXXXXXXXXXXXXX)
+    }
+@font-face {
+    font-family: "FoundryFormSerif-Book";
+    font-weight: normal;
+    font-style: normal;
+    src: url(styles/XXXXXXXXXXXXXXXX)
+    }
+@font-face {
+    font-family: "FoundryFormSerif-BookItalic";
+    font-weight: normal;
+    font-style: italic;
+    src: url(styles/XXXXXXXXXXXXXXXX)
+    }
+@font-face {
+    font-family: "FoundryFormSerif-Demi";
+    font-weight: bold;
+    font-style: normal;
+    src: url(styles/XXXXXXXXXXXXXXXX)
+    }
+@font-face {
+    font-family: "FoundryFormSerif-DemiItalic";
+    font-weight: bold;
+    font-style: italic;
+    src: url(styles/XXXXXXXXXXXXXXXX)
+    }
+@font-face {
+    font-family: "FoundrySterling-Bold";
+    font-weight: bold;
+    font-style: normal;
+    src: url(styles/XXXXXXXXXXXXXXXX)
+    }
+@font-face {
+    font-family: "FoundrySterling-Demi";
+    font-weight: bold;
+    font-style: normal;
+    src: url(styles/XXXXXXXXXXXXXXXX)
+    }
+@font-face {
+    font-family: "MyriadPro-Semibold";
+    font-weight: bold;
+    font-style: normal;
+    src: url(styles/XXXXXXXXXXXXXXXX)
+    }
